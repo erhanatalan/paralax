@@ -3,10 +3,9 @@
 ![gif](./img/parallax_page.gif)
 
 ## Description
-This project aims to display data on JS DOM with openweathermap API.
+This project aims to create a parallax page.
 
 ## Project Skeleton 
-
 ```
 WEATHER_APP(folder)
 |
@@ -26,5 +25,6 @@ WEATHER_APP(folder)
   - ### PARALAX
   - ### GRADIENT
   - ### OUTLINE
+
 
 <left> ⌛ Happy Coding  💻🎶🍕🍀✍ </left>
